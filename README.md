@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahima Diallo</h1>
 <h3 align="center">PHP Symfony backend developer.</h3>
 
-- 🔭 I’m currently working on differnts privates projects
+- 🔭 I’m currently working on differents privates projects
 
 - 🌱 I’m currently learning **Symfony, api platform, Docker***
  
